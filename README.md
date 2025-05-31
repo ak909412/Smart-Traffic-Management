@@ -6,19 +6,16 @@ A Reinforcement Learning and Graph Neural Network-based traffic optimization sys
 
 ## 📌 Table of Contents
 
-- [Overview](#-overview)
-- [System Architecture](#-system-architecture)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Setup Instructions](#-setup-instructions)
-- [Hardware Setup](#-hardware-setup)
-- [Simulation with SUMO](#-simulation-with-sumo)
-- [Flask Server & Real-time Logs](#-flask-server--real-time-logs)
-- [Results](#-results)
-- [Future Enhancements](#-future-enhancements)
-- [Screenshots](#-screenshots)
-- [Contributors](#-contributors)
-- [License](#-license)
+- [Overview]
+- [System Architecture]
+- [Features]
+- [Tech Stack]
+- [Setup Instructions]
+- [Hardware Setup]
+- [Simulation with SUMO]
+- [Flask Server & Real-time Logs]
+- [Future Enhancements]
+
 
 ---
 
