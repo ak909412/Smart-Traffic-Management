@@ -35,34 +35,7 @@ The aim is to simulate and deploy a scalable, low-cost system for smart cities t
 
 ## 🧠 System Architecture
 
-┌──────────────────────────────┐
-│ Vehicles │
-│ (ESP8266 + MAC address) │
-└────────────┬────────────────┘
-│ V2V Communication (Hotspot Mode)
-▼
-┌──────────────────────────────┐
-│ Traffic Signal Node │
-│ (ESP8266 in AP Mode) │
-│ Detects MACs, Sends Data │
-└────────────┬────────────────┘
-│ HTTP/JSON
-▼
-┌──────────────────────────────┐
-│ Flask Server │
-│ - Receives traffic data │
-│ - Detects Emergency Vehicle │
-│ - Updates signal status │
-│ - Logs traffic events │
-└────────────┬────────────────┘
-│ Socket/REST
-▼
-┌──────────────────────────────┐
-│ Reinforcement Learning │
-│ - Q-Learning Agent │
-│ - SUMO Traffic Simulator │
-│ - GNN-based Prediction │
-└──────────────────────────────┘
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/ae959a19-c2b1-42cb-8d97-77290bcaf79b" />
 
 
 ---
