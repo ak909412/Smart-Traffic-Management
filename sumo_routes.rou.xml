@@ -12,10 +12,8 @@
   <route id="route5" edges="E0 E1 E6"/>
   <route id="route6" edges="-E6 -E1 -E0"/>
   <route id="route7" edges="E0 E1 E6"/>
-  <vehicle id="vehicle_92" type="truck" route="route7" depart="16"/>
-  <vehicle id="vehicle_fd" type="car" route="route2" depart="11"/>
-  <vehicle id="vehicle_51" type="car" route="route6" depart="27"/>
-  <vehicle id="vehicle_29" type="bike" route="route4" depart="0"/>
-  <vehicle id="vehicle_f6" type="ambulance" route="route2" depart="28" color="1,0,0"/>
-  <vehicle id="vehicle_bf" type="car" route="route3" depart="0"/>
+  <vehicle id="vehicle_bf" type="car" route="route6" depart="8"/>
+  <vehicle id="vehicle_f6" type="ambulance" route="route1" depart="4" color="1,0,0"/>
+  <vehicle id="vehicle_51" type="car" route="route1" depart="12"/>
+  <vehicle id="vehicle_92" type="truck" route="route3" depart="24"/>
 </routes>
